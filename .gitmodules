@@ -1,0 +1,21 @@
+[submodule "assembly_dummy_controller"]
+	path = assembly_dummy_controller
+	url = https://github.com/psh117/assembly_dummy_controller
+[submodule "assembly_dual_controllers"]
+	path = assembly_dual_controllers
+	url = https://github.com/psh117/assembly_dual_controllers
+[submodule "assembly_knowledge"]
+	path = assembly_knowledge
+	url = https://github.com/psh117/assembly_knowledge
+[submodule "assembly_msgs"]
+	path = assembly_msgs
+	url = https://github.com/psh117/assembly_msgs
+[submodule "assembly_task_manager"]
+	path = assembly_task_manager
+	url = https://github.com/psh117/assembly_task_manager
+[submodule "assembly_env_description"]
+	path = assembly_env_description
+	url = https://github.com/psh117/assembly_env_description
+[submodule "assembly_moveit_config"]
+	path = assembly_moveit_config
+	url = https://github.com/psh117/assembly_moveit_config
