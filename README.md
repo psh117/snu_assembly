@@ -6,7 +6,10 @@
   The codes are tested on Ubuntu 18.04 and ROS Melodic environment.
 * Download source codes inside your catkin workspace
 ```sh
-git clone --recursive https://github.com/psh117/snu_assembly
+cd ~/catkin_ws/src
+git clone https://github.com/psh117/snu_assembly
+cd snu_assembly
+./install.sh
 ```
 * CoppeliaSim (https://www.coppeliarobotics.com/coppeliaSim) 
 1. Download and unzip the files.
